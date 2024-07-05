@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1720111234 source:d:\mmu stuff\assignment\compgraph\project\help\model.cpp
+	<GL\glut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
+1720158402 source:d:\mmu stuff\assignment\compgraph\project\spaceship1\model.cpp
+	<GL\glut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
