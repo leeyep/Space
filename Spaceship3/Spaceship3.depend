@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720261475 source:d:\mmu stuff\assignment\compgraph\project\spaceship3\spaceship3.cpp
+	<GL\glut.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
